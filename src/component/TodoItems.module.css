@@ -1,0 +1,10 @@
+.itemsContainer {
+  text-align: left;
+  padding: 20px 90px  ;
+ line-height: 60px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  font-size: 1.2em;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  

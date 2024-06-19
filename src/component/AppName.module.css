@@ -1,0 +1,17 @@
+/* AppName.module.css */
+
+.todoHeading {
+        font-weight: 700;
+        font-size: 45px;
+        margin: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+        background: linear-gradient(90deg, rgba(159, 212, 252, 1) 0%, rgba(100, 160, 230, 1) 100%);
+        border: 2px solid #009688;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        color: #fff;
+        text-transform: uppercase;
+      }
+      
